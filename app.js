@@ -58,4 +58,4 @@ function moveInvaders(){
             draw()
 }
 
-setInterval(moveInvaders,500)
+invadersId = setInterval(moveInvaders,500)
