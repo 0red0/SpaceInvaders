@@ -1,5 +1,5 @@
-##Space Invaders Game
+## Space Invaders Game
 
-##using: HTML, CSS, SASS, JAVASCRIPT
+## Using : HTML, CSS, SASS, JAVASCRIPT
 
-##https://0red0.github.io/SpaceInvaders/
+## [The Game](https://0red0.github.io/SpaceInvaders/)
