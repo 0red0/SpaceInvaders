@@ -16,5 +16,13 @@ div.invader {
 }
 
 div.shooter {
+  background-color: violet;
+}
+
+.laser {
+  background-color: orange;
+}
+
+.boom {
   background-color: red;
 }/*# sourceMappingURL=styles.css.map */
